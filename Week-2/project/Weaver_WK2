@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weaver Week 2 Project</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Weaver's Week 2 Project</h1>
+  </header>
+  <main>
+    <section>
+      <h2>About This Project</h2>
+      <p>This project is created for the Week 2 assignment of the web development course.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2023 Weaver. All rights reserved.</p>
+  </footer>
+</body>
+</html>
